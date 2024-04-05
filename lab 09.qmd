@@ -1,0 +1,14 @@
+---
+title: "lab-09"
+format: html
+---
+
+## assess myself 
+
+I learned how to frame research questions to perform predictive analysis.
+
+I found the autoplot() function very interesting and very helpful in future visualization. 
+
+I consulted mainly on [here](https://qtalr.github.io/qtalrkit/articles/recipe-9.html)
+
+I would like to learn more about more models to interpret the features of data.
